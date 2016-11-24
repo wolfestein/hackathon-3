@@ -1,4 +1,4 @@
-# hackathon-3
+# HACKATHON III
 
 "Forker" ce dépôt et cloner le fork dans votre environnement qui doit contenir php 5.5 minimum.
 
