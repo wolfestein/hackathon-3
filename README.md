@@ -2,7 +2,7 @@
 
 Forker ce dépôt et cloner le fork dans votre environnement qui doit contenir php 5.5 minimum.
 
-Les sujets de chaque dev se trouvent dans `src/{{loginGithubDuDev}}`. Ils ne sont disponibles qu'après le début du hackathon.
+Les sujets de chaque dev se trouvent dans `src/{{loginGithubDuDev}}`. Ils ne sont disponibles qu'après le début du Hackathon.
 
 Les instructions de chaque sujet se trouvent dans le fichier README.md à la racine de `src/{{loginGithubDuDev}}`.
 
