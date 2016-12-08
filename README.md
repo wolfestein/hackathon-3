@@ -1,6 +1,6 @@
 # HACKATHON III
 
-Forker ce dépôt en cliquant sur "Fork" en haut à droite puis choissisez votre compte github Profideo comme destination.
+Forker ce dépôt en cliquant sur "Fork" en haut à droite puis choissisez votre compte Profideo comme destination.
 
 Une fois forké, cloner votre fork dans votre environnement qui doit contenir php 5.5 minimum.
 
