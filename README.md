@@ -1,6 +1,6 @@
 # HACKATHON III
 
-Forker ce dépôt en cliquant sur "Fork" en haut à droite puis choissisez votre compte Profideo comme destination.
+Une fois que j'aurai lancer le départ, forker ce dépôt en cliquant sur "Fork" en haut à droite de la page puis choissisez votre compte Profideo comme destination.
 
 Une fois forké, cloner votre fork dans votre environnement qui doit contenir php 5.5 minimum.
 
