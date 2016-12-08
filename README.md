@@ -1,6 +1,8 @@
 # HACKATHON III
 
-Forker ce dépôt et cloner le fork dans votre environnement qui doit contenir php 5.5 minimum.
+Forker ce dépôt en cliquant sur "Fork" en haut à droite puis choissisez votre compte github Profideo comme destination.
+
+Une fois forké, cloner votre fork dans votre environnement qui doit contenir php 5.5 minimum.
 
 Les sujets de chaque dev se trouvent dans `src/{{loginGithubDuDev}}`. Ils ne sont disponibles qu'après le début du Hackathon.
 
