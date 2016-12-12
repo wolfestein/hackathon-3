@@ -49,6 +49,6 @@ class Debug
     }
 
 
-   function get_duplicates ($array) {
-        return array_unique( array_diff_assoc( $array, array_unique( $array ) ) );
-    }
+//   function get_duplicates ($array) {
+//        return array_unique( array_diff_assoc( $array, array_unique( $array ) ) );
+//    }
